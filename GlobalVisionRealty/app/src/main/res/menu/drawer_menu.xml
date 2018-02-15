@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="Home"/>
+
+        <item android:id="@+id/listing_search"
+            android:title="Listing Search"/>
+
+        <item android:id="@+id/bronx"
+            android:title="The Bronx"/>
+
+        <item android:id="@+id/orange_county"
+            android:title="Orange county"/>
+
+        <item android:id="@+id/weschester_county"
+            android:title="Weschester County"/>
+
+        <item android:id="@+id/queens"
+            android:title="Queens"/>
+
+
+    </group>
+
+</menu>
